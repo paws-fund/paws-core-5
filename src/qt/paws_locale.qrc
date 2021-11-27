@@ -1,0 +1,17 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="de">locale/paws_de.qm</file>
+        <file alias="en">locale/paws_en.qm</file>
+        <file alias="en_US">locale/paws_en_US.qm</file>
+        <file alias="es">locale/paws_es.qm</file>
+        <file alias="es_ES">locale/paws_es_ES.qm</file>
+        <file alias="fr_FR">locale/paws_fr_FR.qm</file>
+        <file alias="hr_HR">locale/paws_hr_HR.qm</file>
+        <file alias="it">locale/paws_it.qm</file>
+        <file alias="ko_KR">locale/paws_ko_KR.qm</file>
+        <file alias="nl">locale/paws_nl.qm</file>
+        <file alias="pl">locale/paws_pl.qm</file>
+        <file alias="ru">locale/paws_ru.qm</file>
+        <file alias="zh_CN">locale/paws_zh_CN.qm</file>
+    </qresource>
+</RCC>

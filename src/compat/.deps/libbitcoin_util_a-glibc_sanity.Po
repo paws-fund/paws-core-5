@@ -1,0 +1,16 @@
+compat/libbitcoin_util_a-glibc_sanity.o: compat/glibc_sanity.cpp \
+  config/paws-config.h \
+  /home/remapper/Desktop/Paws/depends/x86_64-apple-darwin11/native/bin/../include/c++/v1/cstddef \
+  /home/remapper/Desktop/Paws/depends/x86_64-apple-darwin11/native/bin/../include/c++/v1/__config \
+  /home/remapper/Desktop/Paws/depends/x86_64-apple-darwin11/native/bin/../lib/clang/3.7.1/include/stddef.h \
+  /home/remapper/Desktop/Paws/depends/x86_64-apple-darwin11/native/bin/../lib/clang/3.7.1/include/__stddef_max_align_t.h
+
+config/paws-config.h:
+
+/home/remapper/Desktop/Paws/depends/x86_64-apple-darwin11/native/bin/../include/c++/v1/cstddef:
+
+/home/remapper/Desktop/Paws/depends/x86_64-apple-darwin11/native/bin/../include/c++/v1/__config:
+
+/home/remapper/Desktop/Paws/depends/x86_64-apple-darwin11/native/bin/../lib/clang/3.7.1/include/stddef.h:
+
+/home/remapper/Desktop/Paws/depends/x86_64-apple-darwin11/native/bin/../lib/clang/3.7.1/include/__stddef_max_align_t.h:

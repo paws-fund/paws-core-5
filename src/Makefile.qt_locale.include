@@ -1,0 +1,14 @@
+QT_TS = \
+  qt/locale/paws_de.ts \
+  qt/locale/paws_en.ts \
+  qt/locale/paws_en_US.ts \
+  qt/locale/paws_es.ts \
+  qt/locale/paws_es_ES.ts \
+  qt/locale/paws_fr_FR.ts \
+  qt/locale/paws_hr_HR.ts \
+  qt/locale/paws_it.ts \
+  qt/locale/paws_ko_KR.ts \
+  qt/locale/paws_nl.ts \
+  qt/locale/paws_pl.ts \
+  qt/locale/paws_ru.ts \
+  qt/locale/paws_zh_CN.ts
